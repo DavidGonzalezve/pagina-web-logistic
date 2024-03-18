@@ -15,7 +15,7 @@
 }
 
 body{
-    background-image: url(/fondo/scania.jpg); 
+    background-image: url(fondo/scania.jpg); 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
